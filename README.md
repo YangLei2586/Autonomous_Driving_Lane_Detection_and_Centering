@@ -17,3 +17,7 @@
 ### *1*, pay more attentions to the pixels next to edges and include the points next to edges but beyond max threshold. This may be helpful for getting a more continous straight line.
 ### *2*, combining the draw_lines() function with the weighted_img() can  make the lines semi-transparent, which is way  worthing of trying.
 
+# Codes Result Display
+## Markdown currently does not support for enbeding video file in a readme so put this URL linking to a youtube video displaying the result.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
+(https://www.youtube.com/watch?v=5nM1JaeyceE&feature=youtu.be)
