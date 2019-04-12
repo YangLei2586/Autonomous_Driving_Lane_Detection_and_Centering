@@ -19,5 +19,4 @@
 
 # Codes Result Display
 ## Markdown currently does not support for enbeding video file in a readme so put this URL linking to a youtube video displaying the result.
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]
-(https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
