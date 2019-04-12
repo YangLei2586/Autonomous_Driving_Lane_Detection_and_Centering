@@ -19,4 +19,4 @@
 
 # Codes Result Display
 ## Markdown currently does not support for enbeding video file in a readme so put this URL linking to a youtube video displaying the result.
-[![Video Display for Autonomous Driving Finding Lanes Works](<img width="493" alt="Video for Autonomous Driving Project one" src="https://user-images.githubusercontent.com/40772712/56013701-10645d80-5cc0-11e9-8c0a-e188bf3cd068.PNG">)](https://www.youtube.com/watch?v=5nM1JaeyceE&feature=youtu.be)
+[![Video Display for Autonomous Driving Finding Lanes Works](https://user-images.githubusercontent.com/40772712/56013701-10645d80-5cc0-11e9-8c0a-e188bf3cd068.PNG">)](https://www.youtube.com/watch?v=5nM1JaeyceE&feature=youtu.be)
