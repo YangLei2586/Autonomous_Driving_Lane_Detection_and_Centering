@@ -18,5 +18,5 @@
 ### *2*, combining the draw_lines() function with the weighted_img() can  make the lines semi-transparent, which is way  worthing of trying.
 
 # Codes Result Display
-## Markdown currently does not support for enbeding video file in a readme so put this URL linking to a youtube video displaying the result.
-[![Video Display for Autonomous Driving Finding Lanes Works](https://user-images.githubusercontent.com/40772712/56013701-10645d80-5cc0-11e9-8c0a-e188bf3cd068.PNG">)](https://www.youtube.com/watch?v=5nM1JaeyceE&feature=youtu.be)
+## Markdown currently does not support for enbeding video file in a readme so put this URL linking to a youtube video displaying the result. Just click the picture as bellow the video will play.
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=5nM1JaeyceE&feature=youtu.be)
